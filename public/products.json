@@ -1,0 +1,99 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Bluetooth Headphones",
+    "price": 79.99,
+    "description": "Premium wireless headphones with noise cancellation, 30-hour battery life, and crystal-clear sound quality. Perfect for music lovers and professionals.",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500",
+    "category": "Electronics"
+  },
+  {
+    "id": 2,
+    "name": "Smart Watch Pro",
+    "price": 249.99,
+    "description": "Advanced smartwatch with health tracking, GPS, and water resistance. Monitor your fitness goals and stay connected on the go.",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500",
+    "category": "Electronics"
+  },
+  {
+    "id": 3,
+    "name": "Leather Crossbody Bag",
+    "price": 89.99,
+    "description": "Elegant genuine leather crossbody bag with adjustable strap. Spacious interior with multiple compartments for your essentials.",
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=500",
+    "category": "Fashion"
+  },
+  {
+    "id": 4,
+    "name": "Running Sneakers",
+    "price": 129.99,
+    "description": "Comfortable running shoes with cushioned sole and breathable mesh upper. Ideal for daily workouts and long-distance running.",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=500",
+    "category": "Fashion"
+  },
+  {
+    "id": 5,
+    "name": "Ceramic Coffee Set",
+    "price": 45.99,
+    "description": "Beautiful handcrafted ceramic coffee set including 4 mugs and a coffee pot. Perfect for your morning routine or entertaining guests.",
+    "image": "https://images.unsplash.com/photo-1514228742587-6b1558fcca3d?w=500",
+    "category": "Home"
+  },
+  {
+    "id": 6,
+    "name": "Minimalist Desk Lamp",
+    "price": 59.99,
+    "description": "Modern LED desk lamp with adjustable brightness and color temperature. Sleek design that complements any workspace.",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=500",
+    "category": "Home"
+  },
+  {
+    "id": 7,
+    "name": "Yoga Mat Premium",
+    "price": 34.99,
+    "description": "Non-slip yoga mat with extra cushioning for comfort. Eco-friendly material, easy to clean and carry.",
+    "image": "https://images.unsplash.com/photo-1601925260368-ae2f83d12e44?w=500",
+    "category": "Sports"
+  },
+  {
+    "id": 8,
+    "name": "Wireless Mouse",
+    "price": 29.99,
+    "description": "Ergonomic wireless mouse with precision tracking and long battery life. Compatible with all major operating systems.",
+    "image": "https://images.unsplash.com/photo-1527814050087-3793815479db?w=500",
+    "category": "Electronics"
+  },
+  {
+    "id": 9,
+    "name": "Cotton T-Shirt Pack",
+    "price": 39.99,
+    "description": "Pack of 3 premium cotton t-shirts in various colors. Soft, breathable fabric with comfortable fit for everyday wear.",
+    "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=500",
+    "category": "Fashion"
+  },
+  {
+    "id": 10,
+    "name": "Indoor Plant Set",
+    "price": 54.99,
+    "description": "Set of 3 low-maintenance indoor plants with decorative pots. Bring nature indoors and purify your air naturally.",
+    "image": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=500",
+    "category": "Home"
+  },
+  {
+    "id": 11,
+    "name": "Dumbbell Set",
+    "price": 99.99,
+    "description": "Adjustable dumbbell set with weights from 5 to 25 lbs. Perfect for home workouts and strength training.",
+    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=500",
+    "category": "Sports"
+  },
+  {
+    "id": 12,
+    "name": "Backpack Travel",
+    "price": 69.99,
+    "description": "Durable travel backpack with laptop compartment and multiple pockets. Water-resistant material, perfect for adventures.",
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=500",
+    "category": "Fashion"
+  }
+]
+
