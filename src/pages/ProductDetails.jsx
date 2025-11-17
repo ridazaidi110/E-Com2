@@ -99,7 +99,7 @@ const ProductDetails = () => {
                 transition={{ delay: 0.2 }}
                 className="text-3xl font-bold text-primary-600 dark:text-primary-400 mb-6"
               >
-                ${product.price.toFixed(2)}
+                ₹{product.price.toFixed(2)}
               </motion.p>
             </div>
 

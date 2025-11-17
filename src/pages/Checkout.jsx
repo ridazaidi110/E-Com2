@@ -79,7 +79,7 @@ const Checkout = () => {
                       </p>
                     </div>
                     <p className="font-bold text-primary-600 dark:text-primary-400">
-                      ${(item.price * item.quantity).toFixed(2)}
+                      ₹{(item.price * item.quantity).toFixed(2)}
                     </p>
                   </div>
                 ))}
@@ -104,7 +104,7 @@ const Checkout = () => {
               <div className="space-y-4 mb-6">
                 <div className="flex justify-between text-gray-600 dark:text-gray-400">
                   <span>Items ({cartItems.reduce((sum, item) => sum + item.quantity, 0)})</span>
-                  <span>${getCartTotal().toFixed(2)}</span>
+                  <span>₹{getCartTotal().toFixed(2)}</span>
                 </div>
                 <div className="flex justify-between text-gray-600 dark:text-gray-400">
                   <span>Shipping</span>
@@ -112,7 +112,7 @@ const Checkout = () => {
                 </div>
                 <div className="flex justify-between text-gray-600 dark:text-gray-400">
                   <span>Tax</span>
-                  <span>$0.00</span>
+                  <span>₹0.00</span>
                 </div>
                 <div className="border-t border-gray-300 dark:border-gray-600 pt-4">
                   <div className="flex justify-between text-xl font-bold text-gray-800 dark:text-gray-200">

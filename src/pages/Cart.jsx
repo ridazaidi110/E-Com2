@@ -74,7 +74,7 @@ const Cart = () => {
                       {item.name}
                     </h3>
                     <p className="text-primary-600 dark:text-primary-400 font-bold text-lg mb-4">
-                      ${item.price.toFixed(2)}
+                      ₹{item.price.toFixed(2)}
                     </p>
                     <div className="flex items-center justify-between">
                       <div className="flex items-center gap-3">
@@ -108,7 +108,7 @@ const Cart = () => {
                       </motion.button>
                     </div>
                     <p className="text-gray-600 dark:text-gray-400 mt-4">
-                      Subtotal: ${(item.price * item.quantity).toFixed(2)}
+                      Subtotal: ₹{(item.price * item.quantity).toFixed(2)}
                     </p>
                   </div>
                 </motion.div>
@@ -129,7 +129,7 @@ const Cart = () => {
               <div className="space-y-4 mb-6">
                 <div className="flex justify-between text-gray-600 dark:text-gray-400">
                   <span>Subtotal</span>
-                  <span>${getCartTotal().toFixed(2)}</span>
+                  <span>₹{getCartTotal().toFixed(2)}</span>
                 </div>
                 <div className="flex justify-between text-gray-600 dark:text-gray-400">
                   <span>Shipping</span>

@@ -52,7 +52,7 @@ const Home = () => {
   }
 
   const features = [
-    { icon: Truck, title: 'Free Shipping', description: 'On orders over $50' },
+    { icon: Truck, title: 'Free Shipping', description: 'On orders over ₹4,000' },
     { icon: Shield, title: 'Secure Payment', description: '100% secure checkout' },
     { icon: Headphones, title: '24/7 Support', description: 'Dedicated support' },
     { icon: Star, title: 'Top Quality', description: 'Premium products' },

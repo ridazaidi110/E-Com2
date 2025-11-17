@@ -20,7 +20,7 @@ const ProductCard = ({ product }) => {
             transition={{ duration: 0.3 }}
           />
           <div className="absolute top-4 right-4 bg-primary-600 text-white px-3 py-1 rounded-full text-sm font-semibold">
-            ${product.price.toFixed(2)}
+            ₹{product.price.toFixed(2)}
           </div>
         </div>
         <div className="p-5">
